@@ -5,7 +5,7 @@
       subtitle="Keep separate lists for different stores, trips, or routines."
     >
       <template #actions>
-        <router-link class="btn btn-primary" to="/lists/new">New list</router-link>
+        <button class="btn btn-primary" type="button">New list</button>
       </template>
     </PageTitle>
 

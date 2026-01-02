@@ -23,7 +23,7 @@
             <router-link class="nav-link" to="/" active-class="active">Lists</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lists/new" active-class="active">New list</router-link>
+            <button class="nav-link" type="button">New list</button>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/about" active-class="active">About</router-link>
